@@ -31,6 +31,7 @@ I enjoy turning complex ideas into simple, usable interfaces and continuously sh
 
 - [**OrganizeIt**](https://github.com/cxvxcxv/OrganizeIt) – Task management app with filters, categories, and search.  
 - [**AceIt**](https://github.com/cxvxcxv/AceIt) – Interactive quiz platform where users can create and take quizzes.
+- [**Vanilla Music Player**](https://github.com/cxvxcxv/vanilla-music-player) – Music player app written in pure html, css, js.
 
 ---
 
