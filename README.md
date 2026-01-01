@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alisher
 
-**Frontend Developer** who builds clean, functional, and responsive UIs.  
+**Frontend Developer** focused on building clean, functional, and responsive user interfaces. 
 
 I enjoy turning complex ideas into simple, usable interfaces and continuously sharpening my skills by building real-world projects.
 
@@ -12,6 +12,7 @@ I enjoy turning complex ideas into simple, usable interfaces and continuously sh
   <!-- Languages & Frameworks -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
@@ -22,16 +23,15 @@ I enjoy turning complex ideas into simple, usable interfaces and continuously sh
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Projects  
 
-- [**OrganizeIt**](https://github.com/cxvxcxv/OrganizeIt) – Task management app with filters, categories, and search.  
-- [**AceIt**](https://github.com/cxvxcxv/AceIt) – Interactive quiz platform where users can create and take quizzes.
-- [**Vanilla Music Player**](https://github.com/cxvxcxv/vanilla-music-player) – Music player app written in pure html, css, js.
+- [**Budget Board**](https://github.com/cxvxcxv/budget-board) – Client-side budgeting application with categorized expenses and global state management using Redux Toolkit.
+- [**AceIt**](https://github.com/cxvxcxv/AceIt) – Interactive quiz platform with dynamic UI flow, real-time score tracking, and responsive design.
+- [**Vanilla Music Player**](https://github.com/cxvxcxv/vanilla-music-player) – Music player built with pure HTML, CSS, and JavaScript using the Audio API.
 
 ---
 
@@ -45,7 +45,7 @@ I enjoy turning complex ideas into simple, usable interfaces and continuously sh
 
 ## 🔥 Currently  
 - Building projects with **React/Next.js & TypeScript**  
-- Exploring **UI animations** and **better design practices**  
+- Improving UI architecture, state management, and component reusability 
 - Open to **frontend roles / collaborative projects**  
 
 ---
